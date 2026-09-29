@@ -1,0 +1,74 @@
+[
+    {
+        "prompt" : "Describe tu comida favorita y por qué te gusta tanto.",
+        "hints" : [
+            {"es" : "sabroso", "en" : "tasty"},
+            {"es" : "receta", "en" : "recipe"},
+            {"es" : "cocinar", "en" : "to cook"}
+        ]
+    },
+    {
+        "prompt" : "¿Cuál es tu lugar favorito para vacacionar y qué actividades disfrutas hacer allí?",
+        "hints" : [
+            {"es" : "playa", "en" : "beach"},
+            {"es" : "montaña", "en" : "mountain"},
+            {"es" : "turismo", "en" : "tourism"}
+        ]
+    },
+    {
+        "prompt" : "Habla sobre un libro o película que te haya impactado y por qué.",
+        "hints" : [
+            {"es" : "historia", "en" : "story"},
+            {"es" : "personaje", "en" : "character"},
+            {"es" : "emocionante", "en" : "exciting"}
+        ]
+    },
+    {
+        "prompt" : "Cuentame sobre tu dia de ayer y lo que hiciste.",
+        "hints" : [
+            {"es" : "ayer", "en" : "yesterday"},
+            {"es" : "primero", "en" : "first"},
+            {"es" : "despues", "en" : "afterwards"}
+        ]
+    },
+    {
+        "prompt" : "Como seria tu fin de semana ideal y con quien te gustaria pasarlo.",
+        "hints" : [
+            {"es" : "descansar", "en" : "to rest"},
+            {"es" : "seria", "en" : "it would be"},
+            {"es" : "con mis amigos", "en" : "with my friends"}
+        ]
+    },
+    {
+        "prompt" : "Describe tu rutina diaria y cómo te organizas para cumplir con tus responsabilidades.",
+        "hints" : [
+            {"es" : "organización", "en" : "organization"},
+            {"es" : "responsabilidades", "en" : "responsibilities"},
+            {"es" : "planificación", "en" : "planning"}
+        ]
+    },
+    {
+        "prompt" : "Habla sobre un hobby o actividad que disfrutes y cómo te hace sentir.",
+        "hints" : [
+            {"es" : "pasatiempo", "en" : "hobby"},
+            {"es" : "disfrutar", "en" : "to enjoy"},
+            {"es" : "relajante", "en" : "relaxing"}
+        ]
+    },
+    {
+        "prompt" : "Describe un lugar que te gustaría visitar y por qué.",
+        "hints" : [
+            {"es" : "viajar", "en" : "to travel"},
+            {"es" : "aventura", "en" : "adventure"},
+            {"es" : "cultura", "en" : "culture"}
+        ]
+    },
+    {
+        "prompt" : "Habla sobre una experiencia memorable que hayas tenido y lo que aprendiste de ella.",
+        "hints" : [
+            {"es" : "experiencia", "en" : "experience"},
+            {"es" : "memorable", "en" : "memorable"},
+            {"es" : "aprendizaje", "en" : "learning"}
+        ]
+    }
+]
